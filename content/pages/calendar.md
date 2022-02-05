@@ -4,22 +4,243 @@ title: Calendar
 uid: 83429091-6e13-68df-1d38-2f300e539f3a
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course overview {{< br >}}{{< br >}} Economic efficiency {{< br >}}{{< br >}} Introduction to supply and demand {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Supply and demand, cont. {{< br >}}{{< br >}} Price elasticity of demand {{< br >}}{{< br >}} Price elasticity of supply {{< br >}}{{< br >}} Income elasticity of demand {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Supply and demand, cont. {{< br >}}{{< br >}} Problems in the U.S. labor market {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Optional math review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Optional session to explain first derivatives {{< br >}}{{< br >}} The basic calculus operation to be used in the course. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Behind the demand curve {{< br >}}{{< br >}} Utility theory {{< br >}}{{< br >}} The allocation of scarce resources {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Behind the demand curve, cont. {{< br >}}{{< br >}} Income and substitution effects {{< br >}}{{< br >}} Consumer surplus {{< br >}}{{< br >}}  |
-| 6 | The housing and financial bubbles |
-| 7 |  {{< br >}}{{< br >}} Technology, costs, returns to scale {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Technology, costs, cont. {{< br >}}{{< br >}} Profit maximization {{< br >}}{{< br >}}  |
-| 9 | Midterm 1 |
-| 10 |  {{< br >}}{{< br >}} Perfect competition {{< br >}}{{< br >}} Entry and exit {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Perfect competition, cont. {{< br >}}{{< br >}} Overview of general equilibrium {{< br >}}{{< br >}}  |
-| 12 | Imperfect competition I—Monopoly |
-| 13 | Imperfect competition II—Price discrimination, monopolistic competition |
-| 14-15 | Imperfect competition III—Oligopoly and game theory |
-| 16 | Capstone example: Why medical costs rise so fast (including brief discussion of the effects of medical uncertainty, agency and the pernicious role of incentives, etc.) |
-| 17 | Midterm 2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course overview
+
+Economic efficiency
+
+Introduction to supply and demand
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Supply and demand, cont.
+
+Price elasticity of demand
+
+Price elasticity of supply
+
+Income elasticity of demand
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Supply and demand, cont.
+
+Problems in the U.S. labor market
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Optional math review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Optional session to explain first derivatives
+
+The basic calculus operation to be used in the course.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Behind the demand curve
+
+Utility theory
+
+The allocation of scarce resources
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Behind the demand curve, cont.
+
+Income and substitution effects
+
+Consumer surplus
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The housing and financial bubbles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Technology, costs, returns to scale
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Technology, costs, cont.
+
+Profit maximization
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perfect competition
+
+Entry and exit
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perfect competition, cont.
+
+Overview of general equilibrium
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Imperfect competition I—Monopoly
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Imperfect competition II—Price discrimination, monopolistic competition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Imperfect competition III—Oligopoly and game theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Capstone example: Why medical costs rise so fast (including brief discussion of the effects of medical uncertainty, agency and the pernicious role of incentives, etc.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
