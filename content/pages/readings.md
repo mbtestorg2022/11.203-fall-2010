@@ -168,7 +168,7 @@ The housing and financial bubbles
 {{< tdopen >}}
 
 
-Shiller, Robert J. "Understanding Recent Trends in House Prices and Home Ownership." Talk prepared for Jackson Hole Symposium, Kansas City Fed. _Housing, Housing Finance, and Monetary Policy_. August 2007, pp. 1-19. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://seattlebubble.com/blog/wp-content/uploads/2007/10/2007-08-robert-shiller-understanding-recent-trends-in-house-prices-and-home-ownership.pdf))
+Shiller, Robert J. "Understanding Recent Trends in House Prices and Home Ownership." Talk prepared for Jackson Hole Symposium, Kansas City Fed. _Housing, Housing Finance, and Monetary Policy_. August 2007, pp. 1-19. ([PDF](http://seattlebubble.com/blog/wp-content/uploads/2007/10/2007-08-robert-shiller-understanding-recent-trends-in-house-prices-and-home-ownership.pdf))
 
 Immergluck, Dan. "Mortgage Market Breakdown: The Contributions of Transactional Failures, Conflicts of Interest and Global Capital Surpluses." In _Foreclosed: High-Risk Lending, Deregulation, and the Undermining of America's Mortgage Market_. Cornell University Press, 2009. ISBN: 9780801447723.
 
