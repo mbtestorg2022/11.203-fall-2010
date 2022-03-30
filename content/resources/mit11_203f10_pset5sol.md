@@ -4,6 +4,7 @@ description: This resource contains information about the following problem, use
   diagrams to show the changes in producer and consumer surplus as the situation evolves.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-203-microeconomics-fall-2010/b12909d5835b3452144c5a07ed543a0c_MIT11_203F10_pset5sol.pdf
 file_type: application/pdf
+parent_uid: b142149f-b9e7-ca8d-43aa-3cc22c0b2ec0
 resourcetype: Document
 title: MIT11_203F10_pset5sol.pdf
 uid: b12909d5-835b-3452-144c-5a07ed543a0c

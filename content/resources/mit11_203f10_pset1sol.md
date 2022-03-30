@@ -6,6 +6,7 @@ description: This resource contains solution of the 6 problems about a shovel re
   equals the quantity demanded.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-203-microeconomics-fall-2010/ae681cbd7657bb076f0eacf089148f86_MIT11_203F10_pset1sol.pdf
 file_type: application/pdf
+parent_uid: b142149f-b9e7-ca8d-43aa-3cc22c0b2ec0
 resourcetype: Document
 title: MIT11_203F10_pset1sol.pdf
 uid: ae681cbd-7657-bb07-6f0e-acf089148f86

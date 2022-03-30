@@ -4,6 +4,7 @@ description: This resource contains information about notes on calculus and util
   functions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-203-microeconomics-fall-2010/32b79dfd8a2aa7f13322e5a13d549271_MIT11_203F10_calcnotes.pdf
 file_type: application/pdf
+parent_uid: fe807a89-f6fc-d9a2-125f-aa04c00d6c45
 resourcetype: Document
 title: MIT11_203F10_calcnotes.pdf
 uid: 32b79dfd-8a2a-a7f1-3322-e5a13d549271

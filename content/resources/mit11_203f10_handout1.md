@@ -4,6 +4,7 @@ description: This resource contains information about production possibility fro
   supply and demand and elasticity
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-203-microeconomics-fall-2010/717baf6084f7ac43686dea6ecad62965_MIT11_203F10_handout1.pdf
 file_type: application/pdf
+parent_uid: 0ddad90f-c95f-a427-152f-568b1431d685
 resourcetype: Document
 title: MIT11_203F10_handout1.pdf
 uid: 717baf60-84f7-ac43-686d-ea6ecad62965

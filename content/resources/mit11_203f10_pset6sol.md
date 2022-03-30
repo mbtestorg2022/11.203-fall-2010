@@ -6,6 +6,7 @@ description: "This resource contains solution about problems over the same four 
   \ production."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-203-microeconomics-fall-2010/7384506ca8c987bb292479fd50677a71_MIT11_203F10_pset6sol.pdf
 file_type: application/pdf
+parent_uid: b142149f-b9e7-ca8d-43aa-3cc22c0b2ec0
 resourcetype: Document
 title: MIT11_203F10_pset6sol.pdf
 uid: 7384506c-a8c9-87bb-2924-79fd50677a71
